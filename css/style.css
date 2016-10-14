@@ -1,0 +1,58 @@
+body {
+  padding-top: 70px;
+}
+
+.carousel-holder {
+  margin-bottom: 30px;
+}
+
+.slide-image {
+  width: 100%;
+}
+
+.thumbnail .caption h4 {
+  font-weight: bold;
+}
+
+.tab-content {
+  padding-top: 20px;
+}
+
+#myModal4 span.label.label-primary {
+  background-color: purple !important;
+}
+
+#myModal4 span.label.label-default:nth-child(3) {
+  background-color: pink !important;
+}
+
+#myModal5 span.label.label-primary {
+  background-color: black !important;
+}
+
+.thumbMain {
+  padding: 0 0 15px 0;
+}
+
+.thumbMain img {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 10px;
+}
+
+.thumbSec {
+  padding: 0; 
+}
+
+.thumbSec img {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+@media (max-width: 992px) {
+  #searchBar {
+    margin-bottom: 30px;
+  }  
+}
+
